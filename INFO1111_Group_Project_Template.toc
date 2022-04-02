@@ -28,10 +28,10 @@
 \contentsline {subsubsection}{Professionalism}{9}{}%
 \contentsline {subsubsection}{Expertise in software development methodologies}{9}{}%
 \contentsline {subsubsection}{Expertise in programming language}{9}{}%
-\contentsline {subsubsection}{interpersonal skills}{10}{}%
+\contentsline {subsubsection}{Interpersonal skills}{10}{}%
 \contentsline {subsubsection}{Project management skills}{10}{}%
 \contentsline {subsubsection}{Data structure and Algorithms}{10}{}%
-\contentsline {subsubsection}{selflearning}{10}{}%
+\contentsline {subsubsection}{Self-learning}{10}{}%
 \contentsline {subsubsection}{Teamwork and collaboration}{11}{}%
 \contentsline {subsection}{\numberline {1.5.}Skills: Yiwei Bian : Cyber Security}{11}{}%
 \contentsline {subsubsection}{Open mindedness / Adaptability}{11}{}%
