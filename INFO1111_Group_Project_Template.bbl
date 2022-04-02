@@ -27,6 +27,8 @@ Baird, A\BPBI M.%
   england region of usa}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Education+ Training}{}{}{}.
+\newblock
+\begin{APACrefDOI} \doi{10.1108/ET-12-2018-0250} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -83,6 +85,8 @@ Borjesson, A.%
   Object-oriented programming systems and applications companion} {Companion to
   the 22nd acm sigplan conference on object-oriented programming systems and
   applications companion}\ (\BPGS\ 897--907).
+\newblock
+\begin{APACrefDOI} \doi{10.1145/1297846.1297941} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -141,6 +145,8 @@ Cooperstein, S\BPBI E.%
   learning}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Reference services review}{}{}{}.
+\newblock
+\begin{APACrefDOI} \doi{10.1108/00907320410537658} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -169,6 +175,8 @@ Dawson, J.%
   performance}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Frontiers in psychology}{9}{}{744}.
+\newblock
+\begin{APACrefDOI} \doi{10.3389/fpsyg.2018.00744} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -200,6 +208,8 @@ Exter, M.%
 \newblock
 \APACjournalVolNumPages{ACM Transactions on Computing Education
   (TOCE)}{18}{4}{1--29}.
+\newblock
+\begin{APACrefDOI} \doi{10.1145/3218430} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -234,6 +244,8 @@ Jain, S\BPBI B.%
 \newblock
 \APACjournalVolNumPages{Research Journal of Engineering and
   Technology}{11}{3}{133--137}.
+\newblock
+\begin{APACrefDOI} \doi{10.5958/2321-581X.2020.00023.9} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -261,6 +273,8 @@ Laal, M.%
 \newblock
 \APACjournalVolNumPages{Procedia-social and behavioral
   sciences}{31}{}{486--490}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.sbspro.2011.12.091} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -288,6 +302,8 @@ Levine, S\BPBI S.%
   performance}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Organization Science}{25}{5}{1414--1433}.
+\newblock
+\begin{APACrefDOI} \doi{10.1287/orsc.2013.0872} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -344,6 +360,8 @@ Lundberg, G\BPBI M.%
 \newblock
 \APACjournalVolNumPages{International Journal of Engineering
   Pedagogy}{11}{3}{}.
+\newblock
+\begin{APACrefDOI} \doi{10.3991/IJEP.V11I3.19995} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -398,6 +416,8 @@ Myers, C.%
   professionalism}.
 \newblock
 \APACaddressPublisher{}{Springer Science \& Business Media}.
+\newblock
+\begin{APACrefDOI} \doi{10.1007/978-1-4471-0923-5} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -530,6 +550,8 @@ Vijayasarathy, L\BPBI R.%
   characteristics matter?}{\BBCQ}
 \newblock
 \APACjournalVolNumPages{IEEE software}{33}{5}{86--94}.
+\newblock
+\begin{APACrefDOI} \doi{10.1109/MS.2015.26} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -556,6 +578,8 @@ Vollmeyer, R.%
   surprising effect of feedback on learning}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Learning and instruction}{15}{6}{589--602}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.learninstruc.2005.08.001} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -608,6 +632,8 @@ Weber, R\BPBI H.%
   {Cybersecurity in the internet of things: Legal aspects}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Computer Law \& Security Review}{32}{5}{715--728}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/j.clsr.2016.07.002} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -631,9 +657,11 @@ Williams, L.%
   {Agile software development methodologies and practices}.{\BBCQ}
 \newblock
 \BIn{} \APACrefbtitle {Advances in computers} {Advances in computers}\
-  (\BVOL~80, \BPGS\ 1--44).
+  (\BVOL~80, \BPG~1-44).
 \newblock
 \APACaddressPublisher{}{Elsevier}.
+\newblock
+\begin{APACrefDOI} \doi{10.1016/S0065-2458(10)80001-4} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}
