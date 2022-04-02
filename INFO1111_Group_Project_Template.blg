@@ -14,47 +14,59 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Database file #1: References.bib
 Warning--entry type for "Shatrov2018" isn't style-file defined
 --line 94 of file References.bib
+Warning--entry type for "Synopsys2017" isn't style-file defined
+--line 120 of file References.bib
+Warning--entry type for "Orasesnd" isn't style-file defined
+--line 158 of file References.bib
+Warning--string name "n.d." is undefined
+--line 161 of file References.bib
+Warning--entry type for "Mulongo2022" isn't style-file defined
+--line 165 of file References.bib
+Warning--entry type for "Programiznd" isn't style-file defined
+--line 173 of file References.bib
+Warning--string name "n.d." is undefined
+--line 176 of file References.bib
 Warning--I didn't find a database entry for "apa6"
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
-You've used 11 entries,
+You've used 23 entries,
             6951 wiz_defined-function locations,
-            1342 strings with 12829 characters,
-and the built_in function-call counts, 21413 in all, are:
-= -- 2703
-> -- 170
-< -- 1026
-+ -- 1053
-- -- 22
-* -- 1366
-:= -- 3993
-add.period$ -- 46
-call.type$ -- 11
-change.case$ -- 188
+            1413 strings with 15028 characters,
+and the built_in function-call counts, 46250 in all, are:
+= -- 5924
+> -- 351
+< -- 2274
++ -- 2262
+- -- 54
+* -- 2901
+:= -- 8544
+add.period$ -- 98
+call.type$ -- 23
+change.case$ -- 368
 chr.to.int$ -- 0
-cite$ -- 22
-duplicate$ -- 513
-empty$ -- 811
-format.name$ -- 277
-if$ -- 4064
+cite$ -- 46
+duplicate$ -- 1080
+empty$ -- 1709
+format.name$ -- 557
+if$ -- 8821
 int.to.chr$ -- 0
-int.to.str$ -- 33
+int.to.str$ -- 69
 missing$ -- 0
-newline$ -- 277
-num.names$ -- 88
-pop$ -- 326
+newline$ -- 573
+num.names$ -- 184
+pop$ -- 650
 preamble$ -- 1
-purify$ -- 44
+purify$ -- 90
 quote$ -- 0
-skip$ -- 1443
+skip$ -- 3251
 stack$ -- 0
-substring$ -- 1148
-swap$ -- 307
-text.length$ -- 28
+substring$ -- 2453
+swap$ -- 616
+text.length$ -- 67
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 1016
+type$ -- 2392
 warning$ -- 0
-while$ -- 91
+while$ -- 185
 width$ -- 0
-write$ -- 345
-(There were 2 warnings)
+write$ -- 706
+(There were 8 warnings)

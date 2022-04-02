@@ -86,6 +86,37 @@ Borjesson, A.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Chouseinoglou%
+\ \BBA {} Bilgen%
+}{%
+Chouseinoglou%
+\ \BBA {} Bilgen%
+}{%
+{\protect \APACyear {2014}}%
+}]{%
+chouseinoglou2014introducing}
+\APACinsertmetastar {%
+chouseinoglou2014introducing}%
+\begin{APACrefauthors}%
+Chouseinoglou, O.%
+\BCBT {}\ \BBA {} Bilgen, S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2014}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Introducing critical thinking to software engineering
+  education} {Introducing critical thinking to software engineering
+  education}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Software Engineering Research, Management and
+  Applications} {Software engineering research, management and applications}\
+  (\BPGS\ 183--195).
+\newblock
+\APACaddressPublisher{}{Springer}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Cooperstein%
 \ \BBA {} Kocevar-Weidinger%
 }{%
@@ -110,6 +141,34 @@ Cooperstein, S\BPBI E.%
   learning}.{\BBCQ}
 \newblock
 \APACjournalVolNumPages{Reference services review}{}{}{}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Dawson%
+\ \BBA {} Thomson%
+}{%
+Dawson%
+\ \BBA {} Thomson%
+}{%
+{\protect \APACyear {2018}}%
+}]{%
+dawson2018future}
+\APACinsertmetastar {%
+dawson2018future}%
+\begin{APACrefauthors}%
+Dawson, J.%
+\BCBT {}\ \BBA {} Thomson, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {The future cybersecurity workforce: going beyond
+  technical skills for successful cyber performance} {The future cybersecurity
+  workforce: going beyond technical skills for successful cyber
+  performance}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Frontiers in psychology}{9}{}{744}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -141,6 +200,40 @@ Exter, M.%
 \newblock
 \APACjournalVolNumPages{ACM Transactions on Computing Education
   (TOCE)}{18}{4}{1--29}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Jain%
+, Sonar%
+, Jain%
+, Daga%
+\BCBL {}\ \BBA {} Jain%
+}{%
+Jain%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2020}}%
+}]{%
+jain2020review}
+\APACinsertmetastar {%
+jain2020review}%
+\begin{APACrefauthors}%
+Jain, S\BPBI B.%
+, Sonar, S\BPBI G.%
+, Jain, S\BPBI S.%
+, Daga, P.%
+\BCBL {}\ \BBA {} Jain, R\BPBI S.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2020}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Review on Comparison of different programming language
+  by observing it's advantages and disadvantages} {Review on comparison of
+  different programming language by observing it's advantages and
+  disadvantages}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Research Journal of Engineering and
+  Technology}{11}{3}{133--137}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -198,6 +291,33 @@ Levine, S\BPBI S.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Liu%
+, Jajodia%
+\BCBL {}\ \BBA {} Wang%
+}{%
+Liu%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2017}}%
+}]{%
+liu2017theory}
+\APACinsertmetastar {%
+liu2017theory}%
+\begin{APACrefauthors}%
+Liu, P.%
+, Jajodia, S.%
+\BCBL {}\ \BBA {} Wang, C.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2017}.
+\newblock
+\APACrefbtitle {Theory and Models for Cyber Situation Awareness} {Theory and
+  models for cyber situation awareness}.
+\newblock
+\APACaddressPublisher{}{Springer}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Lundberg%
 , Krogstie%
 \BCBL {}\ \BBA {} Krogstie%
@@ -227,6 +347,109 @@ Lundberg, G\BPBI M.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Mulongo%
+}{%
+Mulongo%
+}{%
+{\protect \APACyear {2022}}%
+}]{%
+Mulongo2022}
+\APACinsertmetastar {%
+Mulongo2022}%
+\begin{APACrefauthors}%
+Mulongo.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2022}{}{}.
+\newblock
+\APACrefbtitle {The importance of algorithms in computer programming.
+  Technotification.} {The importance of algorithms in computer programming.
+  technotification.}
+\newblock
+\begin{APACrefURL}
+  [{2017-01-31}]\url{https://www.technotification.com/2019/02/importance-of-algorithms-programming.html}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Myers%
+, Hall%
+\BCBL {}\ \BBA {} Pitt%
+}{%
+Myers%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2012}}%
+}]{%
+myers2012responsible}
+\APACinsertmetastar {%
+myers2012responsible}%
+\begin{APACrefauthors}%
+Myers, C.%
+, Hall, T.%
+\BCBL {}\ \BBA {} Pitt, D.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2012}.
+\newblock
+\APACrefbtitle {The responsible software engineer: Selected readings in IT
+  professionalism} {The responsible software engineer: Selected readings in it
+  professionalism}.
+\newblock
+\APACaddressPublisher{}{Springer Science \& Business Media}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Orases%
+}{%
+Orases%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+Orasesnd}
+\APACinsertmetastar {%
+Orasesnd}%
+\begin{APACrefauthors}%
+Orases.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\APACrefbtitle {The Importance Of Project Management For Software Development.}
+  {The importance of project management for software development.}
+\newblock
+\begin{APACrefURL}
+  \url{https://orases.com/the-importance-of-project-management-for-software-development/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Programiz%
+}{%
+Programiz%
+}{%
+{\protect \APACyear {{\protect \bibnodate {}}}}%
+}]{%
+Programiznd}
+\APACinsertmetastar {%
+Programiznd}%
+\begin{APACrefauthors}%
+Programiz.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{{\protect \bibnodate {}}}{}{}.
+\newblock
+\APACrefbtitle {Data Structure and Types. What are Data Structures?} {Data
+  structure and types. what are data structures?}
+\newblock
+\begin{APACrefURL} \url{https://www.programiz.com/dsa/data-structure-types}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Shatrov%
 }{%
 Shatrov%
@@ -250,6 +473,63 @@ Shatrov, K.%
 \begin{APACrefURL}
   [{2018-08-08}]\url{https://shopify.engineering/e-commerce-at-scale-inside-shopifys-tech-stack}
   \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Synopsys%
+}{%
+Synopsys%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+Synopsys2017}
+\APACinsertmetastar {%
+Synopsys2017}%
+\begin{APACrefauthors}%
+Synopsys.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+\APACrefbtitle {Top 4 software development methodologies. How do the top
+  software development methodologies (waterfall, rapid application, agile, and
+  DevOps) work? And which method is best for your project?} {Top 4 software
+  development methodologies. how do the top software development methodologies
+  (waterfall, rapid application, agile, and devops) work? and which method is
+  best for your project?}
+\newblock
+\begin{APACrefURL}
+  [{2017-03-28}]\url{https://www.synopsys.com/blogs/software-security/top-4-software-development-methodologies/}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Vijayasarathy%
+\ \BBA {} Butler%
+}{%
+Vijayasarathy%
+\ \BBA {} Butler%
+}{%
+{\protect \APACyear {2015}}%
+}]{%
+vijayasarathy2015choice}
+\APACinsertmetastar {%
+vijayasarathy2015choice}%
+\begin{APACrefauthors}%
+Vijayasarathy, L\BPBI R.%
+\BCBT {}\ \BBA {} Butler, C\BPBI W.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2015}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Choice of software development methodologies: Do
+  organizational, project, and team characteristics matter?} {Choice of
+  software development methodologies: Do organizational, project, and team
+  characteristics matter?}{\BBCQ}
+\newblock
+\APACjournalVolNumPages{IEEE software}{33}{5}{86--94}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -302,6 +582,58 @@ Voogt, J.%
 \newblock
 \APACjournalVolNumPages{Discussienota. Zoetermeer: The Netherlands:
   Kennisnet}{23}{03}{2000}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Weber%
+\ \BBA {} Studer%
+}{%
+Weber%
+\ \BBA {} Studer%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+weber2016cybersecurity}
+\APACinsertmetastar {%
+weber2016cybersecurity}%
+\begin{APACrefauthors}%
+Weber, R\BPBI H.%
+\BCBT {}\ \BBA {} Studer, E.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Cybersecurity in the Internet of Things: Legal aspects}
+  {Cybersecurity in the internet of things: Legal aspects}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Computer Law \& Security Review}{32}{5}{715--728}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Williams%
+}{%
+Williams%
+}{%
+{\protect \APACyear {2010}}%
+}]{%
+williams2010agile}
+\APACinsertmetastar {%
+williams2010agile}%
+\begin{APACrefauthors}%
+Williams, L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2010}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Agile software development methodologies and practices}
+  {Agile software development methodologies and practices}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {Advances in computers} {Advances in computers}\
+  (\BVOL~80, \BPGS\ 1--44).
+\newblock
+\APACaddressPublisher{}{Elsevier}.
 \PrintBackRefs{\CurrentBib}
 
 \end{thebibliography}
