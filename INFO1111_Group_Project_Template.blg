@@ -26,45 +26,45 @@ Warning--string name "n.d." is undefined
 --line 189 of file References.bib
 Warning--I didn't find a database entry for "apa6"
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
-You've used 23 entries,
+You've used 25 entries,
             6951 wiz_defined-function locations,
-            1428 strings with 15376 characters,
-and the built_in function-call counts, 46454 in all, are:
-= -- 5938
-> -- 352
-< -- 2273
-+ -- 2262
-- -- 54
-* -- 2956
-:= -- 8548
-add.period$ -- 98
-call.type$ -- 23
-change.case$ -- 374
+            1441 strings with 15728 characters,
+and the built_in function-call counts, 50178 in all, are:
+= -- 6378
+> -- 385
+< -- 2464
++ -- 2441
+- -- 58
+* -- 3210
+:= -- 9239
+add.period$ -- 106
+call.type$ -- 25
+change.case$ -- 408
 chr.to.int$ -- 0
-cite$ -- 46
-duplicate$ -- 1093
-empty$ -- 1723
-format.name$ -- 557
-if$ -- 8850
+cite$ -- 50
+duplicate$ -- 1193
+empty$ -- 1872
+format.name$ -- 612
+if$ -- 9549
 int.to.chr$ -- 0
-int.to.str$ -- 69
+int.to.str$ -- 75
 missing$ -- 0
-newline$ -- 601
-num.names$ -- 184
-pop$ -- 654
+newline$ -- 653
+num.names$ -- 200
+pop$ -- 703
 preamble$ -- 1
-purify$ -- 90
+purify$ -- 98
 quote$ -- 0
-skip$ -- 3242
+skip$ -- 3489
 stack$ -- 0
-substring$ -- 2458
-swap$ -- 629
-text.length$ -- 67
+substring$ -- 2647
+swap$ -- 695
+text.length$ -- 71
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 2392
+type$ -- 2552
 warning$ -- 0
-while$ -- 185
+while$ -- 204
 width$ -- 0
-write$ -- 734
+write$ -- 799
 (There were 7 warnings)
