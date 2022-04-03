@@ -1,0 +1,60 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1.}Level 1: Basic Skills}{4}{}%
+\contentsline {subsection}{\numberline {1.1.}Developing industry skills}{4}{}%
+\contentsline {subsubsection}{Demand driven}{4}{}%
+\contentsline {subsubsection}{Study groups: social interactions}{4}{}%
+\contentsline {subsubsection}{Feedback}{4}{}%
+\contentsline {subsubsection}{Constructivism}{5}{}%
+\contentsline {subsubsection}{Conference}{5}{}%
+\contentsline {subsection}{\numberline {1.2.}Skills: Xu Wang : Computer Science}{5}{}%
+\contentsline {subsubsection}{Problem Solving}{5}{}%
+\contentsline {subsubsection}{Self-Learning}{6}{}%
+\contentsline {subsubsection}{Mathematical Logic}{6}{}%
+\contentsline {subsubsection}{Communication skills}{6}{}%
+\contentsline {subsubsection}{Critical Thinking}{6}{}%
+\contentsline {subsubsection}{Team Problem Solving}{6}{}%
+\contentsline {subsubsection}{The ability to connect different roles}{6}{}%
+\contentsline {subsubsection}{Concepts across languages}{7}{}%
+\contentsline {subsection}{\numberline {1.3.}Skills: Yi-Yang Wang : Data Science}{7}{}%
+\contentsline {subsubsection}{Maths and statistics}{7}{}%
+\contentsline {subsubsection}{Analytics and modelling}{7}{}%
+\contentsline {subsubsection}{Machine learning}{7}{}%
+\contentsline {subsubsection}{Communicationa and presentation skills}{8}{}%
+\contentsline {subsubsection}{Data visualisation}{8}{}%
+\contentsline {subsubsection}{Problem solving}{8}{}%
+\contentsline {subsubsection}{Intellectual curiosity}{8}{}%
+\contentsline {subsubsection}{Ethics}{8}{}%
+\contentsline {subsection}{\numberline {1.4.}Skills: Yangyang Zhang : Software Development}{9}{}%
+\contentsline {subsubsection}{Professionalism}{9}{}%
+\contentsline {subsubsection}{Expertise in software development methodologies}{9}{}%
+\contentsline {subsubsection}{Expertise in programming language}{9}{}%
+\contentsline {subsubsection}{Interpersonal skills}{10}{}%
+\contentsline {subsubsection}{Project management skills}{10}{}%
+\contentsline {subsubsection}{Data structure and Algorithms}{10}{}%
+\contentsline {subsubsection}{Self-learning}{10}{}%
+\contentsline {subsubsection}{Teamwork and collaboration}{11}{}%
+\contentsline {subsection}{\numberline {1.5.}Skills: Yiwei Bian : Cyber Security}{11}{}%
+\contentsline {subsubsection}{Open mindedness / Adaptability}{11}{}%
+\contentsline {subsubsection}{Problem solving / critical thinking}{11}{}%
+\contentsline {subsubsection}{Teamwork \& communication}{11}{}%
+\contentsline {subsubsection}{Research}{12}{}%
+\contentsline {subsubsection}{Self-motivation}{12}{}%
+\contentsline {subsubsection}{Ethics}{12}{}%
+\contentsline {subsubsection}{Cybersecurity basics}{12}{}%
+\contentsline {subsubsection}{Diverse background knowledge in the IT field}{12}{}%
+\contentsline {section}{\numberline {2.}Level 2: Basic Technology}{14}{}%
+\contentsline {subsection}{\numberline {2.1.}Shopify, Ruby on Rails: Xu Wang}{14}{}%
+\contentsline {subsection}{\numberline {2.2.}Tech Stack: add student 2 name here}{14}{}%
+\contentsline {subsection}{\numberline {2.3.}Tech Stack: add student 3 name here}{14}{}%
+\contentsline {subsection}{\numberline {2.4.}Tech Stack: add student 4 name here}{14}{}%
+\contentsline {section}{\numberline {3.}Level 3: Advanced Skills}{15}{}%
+\contentsline {subsection}{\numberline {3.1.}Advanced features: Xu Wang}{15}{}%
+\contentsline {subsection}{\numberline {3.2.}Advanced features: add student 2 name here}{15}{}%
+\contentsline {subsection}{\numberline {3.3.}Advanced features: add student 3 name here}{15}{}%
+\contentsline {subsection}{\numberline {3.4.}Advanced features: add student 4 name here}{15}{}%
+\contentsline {section}{\numberline {4.}Level 4: Advanced Knowledge}{16}{}%
+\contentsline {subsection}{\numberline {4.1.}Advanced Knowledge: Xu Wang}{16}{}%
+\contentsline {subsection}{\numberline {4.2.}Advanced Knowledge: add student 2 name here}{16}{}%
+\contentsline {subsection}{\numberline {4.3.}Advanced Knowledge: add student 3 name here}{16}{}%
+\contentsline {subsection}{\numberline {4.4.}Advanced Knowledge: add student 4 name here}{16}{}%
+\contentsline {chapter}{References}{17}{}%

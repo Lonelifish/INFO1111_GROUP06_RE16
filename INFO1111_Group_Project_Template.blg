@@ -1,0 +1,70 @@
+This is BibTeX, Version 0.99d (TeX Live 2021)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: INFO1111_Group_Project_Template.aux
+The style file: apacite.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: References.bib
+Warning--entry type for "Shatrov2018" isn't style-file defined
+--line 103 of file References.bib
+Warning--entry type for "Synopsys2017" isn't style-file defined
+--line 131 of file References.bib
+Warning--entry type for "Orasesnd" isn't style-file defined
+--line 171 of file References.bib
+Warning--entry type for "Mulongo2022" isn't style-file defined
+--line 178 of file References.bib
+Warning--entry type for "Programiznd" isn't style-file defined
+--line 186 of file References.bib
+Warning--string name "n.d." is undefined
+--line 189 of file References.bib
+Warning--I didn't find a database entry for "apa6"
+apacite.bst [2013/07/21 v6.03 APA bibliography style]
+You've used 23 entries,
+            6951 wiz_defined-function locations,
+            1428 strings with 15376 characters,
+and the built_in function-call counts, 46454 in all, are:
+= -- 5938
+> -- 352
+< -- 2273
++ -- 2262
+- -- 54
+* -- 2956
+:= -- 8548
+add.period$ -- 98
+call.type$ -- 23
+change.case$ -- 374
+chr.to.int$ -- 0
+cite$ -- 46
+duplicate$ -- 1093
+empty$ -- 1723
+format.name$ -- 557
+if$ -- 8850
+int.to.chr$ -- 0
+int.to.str$ -- 69
+missing$ -- 0
+newline$ -- 601
+num.names$ -- 184
+pop$ -- 654
+preamble$ -- 1
+purify$ -- 90
+quote$ -- 0
+skip$ -- 3242
+stack$ -- 0
+substring$ -- 2458
+swap$ -- 629
+text.length$ -- 67
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 2392
+warning$ -- 0
+while$ -- 185
+width$ -- 0
+write$ -- 734
+(There were 7 warnings)
