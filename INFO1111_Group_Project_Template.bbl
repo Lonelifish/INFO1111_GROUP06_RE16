@@ -55,6 +55,35 @@ Ben-Ari, M.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Blockeel%
+\ \BBA {} Vanschoren%
+}{%
+Blockeel%
+\ \BBA {} Vanschoren%
+}{%
+{\protect \APACyear {2007}}%
+}]{%
+blockeel2007experiment}
+\APACinsertmetastar {%
+blockeel2007experiment}%
+\begin{APACrefauthors}%
+Blockeel, H.%
+\BCBT {}\ \BBA {} Vanschoren, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Experiment databases: Towards an improved experimental
+  methodology in machine learning} {Experiment databases: Towards an improved
+  experimental methodology in machine learning}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {European Conference on Principles of Data Mining and
+  Knowledge Discovery} {European conference on principles of data mining and
+  knowledge discovery}\ (\BPGS\ 6--17).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Borjesson%
 , Pareto%
 , Snis%
@@ -443,6 +472,32 @@ Myers, C.%
 \APACaddressPublisher{}{Springer Science \& Business Media}.
 \newblock
 \begin{APACrefDOI} \doi{10.1007/978-1-4471-0923-5} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+O'Neil%
+\ \BBA {} Schutt%
+}{%
+O'Neil%
+\ \BBA {} Schutt%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+o2013doing}
+\APACinsertmetastar {%
+o2013doing}%
+\begin{APACrefauthors}%
+O'Neil, C.%
+\BCBT {}\ \BBA {} Schutt, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2013}.
+\newblock
+\APACrefbtitle {Doing data science: Straight talk from the frontline} {Doing
+  data science: Straight talk from the frontline}.
+\newblock
+\APACaddressPublisher{}{" O'Reilly Media, Inc."}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
