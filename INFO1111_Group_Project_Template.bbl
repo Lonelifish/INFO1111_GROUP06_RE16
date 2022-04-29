@@ -267,6 +267,31 @@ Exter, M.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+IBM%
+}{%
+IBM%
+}{%
+{\protect \APACyear {2021}}%
+}]{%
+LAMP}
+\APACinsertmetastar {%
+LAMP}%
+\begin{APACrefauthors}%
+IBM.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2021}{}{}.
+\newblock
+\APACrefbtitle {LAMP stack explained: Master the basics and get started
+  quickly.} {Lamp stack explained: Master the basics and get started quickly.}
+\newblock
+\begin{APACrefURL}
+  [{2021-07-06}]\url{https://www.ibm.com/cloud/learn/lamp-stack-explained}
+  \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Jain%
 , Sonar%
 , Jain%
@@ -416,6 +441,31 @@ Lundberg, G\BPBI M.%
   Pedagogy}{11}{3}{}.
 \newblock
 \begin{APACrefDOI} \doi{10.3991/IJEP.V11I3.19995} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Matsunobu%
+}{%
+Matsunobu%
+}{%
+{\protect \APACyear {2016}}%
+}]{%
+MyRocks}
+\APACinsertmetastar {%
+MyRocks}%
+\begin{APACrefauthors}%
+Matsunobu, Y.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2016}{}{}.
+\newblock
+\APACrefbtitle {MyRocks: A space- and write-optimized MySQL database.}
+  {Myrocks: A space- and write-optimized mysql database.}
+\newblock
+\begin{APACrefURL}
+  [{2016-08-31}]\url{https://engineering.fb.com/2016/08/31/core-data/myrocks-a-space-and-write-optimized-mysql-database/}
+  \end{APACrefURL}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%

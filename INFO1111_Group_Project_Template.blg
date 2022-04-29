@@ -24,47 +24,51 @@ Warning--entry type for "Programiznd" isn't style-file defined
 --line 186 of file References.bib
 Warning--string name "n.d." is undefined
 --line 189 of file References.bib
+Warning--entry type for "LAMP" isn't style-file defined
+--line 276 of file References.bib
+Warning--entry type for "MyRocks" isn't style-file defined
+--line 284 of file References.bib
 Warning--I didn't find a database entry for "apa6"
 apacite.bst [2013/07/21 v6.03 APA bibliography style]
-You've used 27 entries,
+You've used 29 entries,
             6951 wiz_defined-function locations,
-            1451 strings with 16075 characters,
-and the built_in function-call counts, 54164 in all, are:
-= -- 6898
-> -- 416
-< -- 2651
-+ -- 2615
-- -- 62
-* -- 3445
-:= -- 9946
-add.period$ -- 116
-call.type$ -- 27
-change.case$ -- 443
+            1463 strings with 16405 characters,
+and the built_in function-call counts, 57804 in all, are:
+= -- 7426
+> -- 436
+< -- 2803
++ -- 2747
+- -- 68
+* -- 3630
+:= -- 10527
+add.period$ -- 124
+call.type$ -- 29
+change.case$ -- 477
 chr.to.int$ -- 0
-cite$ -- 54
-duplicate$ -- 1288
-empty$ -- 2026
-format.name$ -- 660
-if$ -- 10336
+cite$ -- 58
+duplicate$ -- 1354
+empty$ -- 2162
+format.name$ -- 688
+if$ -- 11088
 int.to.chr$ -- 0
-int.to.str$ -- 81
+int.to.str$ -- 87
 missing$ -- 0
-newline$ -- 703
-num.names$ -- 216
-pop$ -- 810
+newline$ -- 747
+num.names$ -- 232
+pop$ -- 849
 preamble$ -- 1
-purify$ -- 106
+purify$ -- 114
 quote$ -- 0
-skip$ -- 3741
+skip$ -- 4097
 stack$ -- 0
-substring$ -- 2839
-swap$ -- 748
-text.length$ -- 79
+substring$ -- 2980
+swap$ -- 777
+text.length$ -- 84
 text.prefix$ -- 0
 top$ -- 1
-type$ -- 2776
+type$ -- 3080
 warning$ -- 0
-while$ -- 219
+while$ -- 229
 width$ -- 0
-write$ -- 861
-(There were 7 warnings)
+write$ -- 909
+(There were 9 warnings)

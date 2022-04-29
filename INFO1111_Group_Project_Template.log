@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.2.24)  29 APR 2022 23:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.2.24)  29 APR 2022 23:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -301,16 +301,16 @@ LaTeX Font Warning: Font shape `T1/cmr/bx/n' in size <13> not available
 (Font)              size <12> substituted on input line 107.
 
 [4] [5] [6] [7] [8] [9] [10] [11] [12] [13] [14] [15] [16]
-(./INFO1111_Group_Project_Template.bbl [17
-
-]
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 4
-43.
+(./INFO1111_Group_Project_Template.bbl
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 2
+90.
 
 (/usr/local/texlive/2021/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
-)
-Underfull \hbox (badness 1484) in paragraph at lines 620--637
+) [17
+
+]
+Underfull \hbox (badness 1484) in paragraph at lines 670--687
 []\T1/cmr/m/n/10.95 Synopsys.  (2017).  \T1/cmr/m/it/10.95 Top 4 soft-ware de-v
 el-op-ment method-olo-gies. how do the top
  []
@@ -325,10 +325,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 3515 strings out of 478994
- 50795 string characters out of 5858184
- 379852 words of memory out of 5000000
- 20981 multiletter control sequences out of 15000+600000
+ 3521 strings out of 478994
+ 50846 string characters out of 5858184
+ 381974 words of memory out of 5000000
+ 20987 multiletter control sequences out of 15000+600000
  414617 words of font info for 50 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,8n,74p,1314b,318s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -344,7 +344,7 @@ texlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/te
 xlive/2021/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texl
 ive/2021/texmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texliv
 e/2021/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb>
-Output written on INFO1111_Group_Project_Template.pdf (19 pages, 243422 bytes).
+Output written on INFO1111_Group_Project_Template.pdf (19 pages, 245472 bytes).
 
 PDF statistics:
  110 PDF objects out of 1000 (max. 8388607)
