@@ -55,6 +55,35 @@ Ben-Ari, M.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+Blockeel%
+\ \BBA {} Vanschoren%
+}{%
+Blockeel%
+\ \BBA {} Vanschoren%
+}{%
+{\protect \APACyear {2007}}%
+}]{%
+blockeel2007experiment}
+\APACinsertmetastar {%
+blockeel2007experiment}%
+\begin{APACrefauthors}%
+Blockeel, H.%
+\BCBT {}\ \BBA {} Vanschoren, J.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2007}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Experiment databases: Towards an improved experimental
+  methodology in machine learning} {Experiment databases: Towards an improved
+  experimental methodology in machine learning}.{\BBCQ}
+\newblock
+\BIn{} \APACrefbtitle {European Conference on Principles of Data Mining and
+  Knowledge Discovery} {European conference on principles of data mining and
+  knowledge discovery}\ (\BPGS\ 6--17).
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Borjesson%
 , Pareto%
 , Snis%
@@ -87,6 +116,31 @@ Borjesson, A.%
   applications companion}\ (\BPGS\ 897--907).
 \newblock
 \begin{APACrefDOI} \doi{10.1145/1297846.1297941} \end{APACrefDOI}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Cao%
+}{%
+Cao%
+}{%
+{\protect \APACyear {2017}}%
+}]{%
+cao2017data}
+\APACinsertmetastar {%
+cao2017data}%
+\begin{APACrefauthors}%
+Cao, L.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2017}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Data science: a comprehensive overview} {Data science: a
+  comprehensive overview}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{ACM Computing Surveys (CSUR)}{50}{3}{1-42}.
+\newblock
+\begin{APACrefDOI} \doi{10.1145/3076253} \end{APACrefDOI}
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
@@ -421,6 +475,32 @@ Myers, C.%
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
+O'Neil%
+\ \BBA {} Schutt%
+}{%
+O'Neil%
+\ \BBA {} Schutt%
+}{%
+{\protect \APACyear {2013}}%
+}]{%
+o2013doing}
+\APACinsertmetastar {%
+o2013doing}%
+\begin{APACrefauthors}%
+O'Neil, C.%
+\BCBT {}\ \BBA {} Schutt, R.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYear{2013}.
+\newblock
+\APACrefbtitle {Doing data science: Straight talk from the frontline} {Doing
+  data science: Straight talk from the frontline}.
+\newblock
+\APACaddressPublisher{}{" O'Reilly Media, Inc."}.
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
 Orases%
 }{%
 Orases%
@@ -467,6 +547,37 @@ Programiz.%
 \newblock
 \begin{APACrefURL} \url{https://www.programiz.com/dsa/data-structure-types}
   \end{APACrefURL}
+\PrintBackRefs{\CurrentBib}
+
+\bibitem [\protect \citeauthoryear {%
+Radovilsky%
+, Hegde%
+, Acharya%
+\BCBL {}\ \BBA {} Uma%
+}{%
+Radovilsky%
+\ \protect \BOthers {.}}{%
+{\protect \APACyear {2018}}%
+}]{%
+radovilsky2018skills}
+\APACinsertmetastar {%
+radovilsky2018skills}%
+\begin{APACrefauthors}%
+Radovilsky, Z.%
+, Hegde, V.%
+, Acharya, A.%
+\BCBL {}\ \BBA {} Uma, U.%
+\end{APACrefauthors}%
+\unskip\
+\newblock
+\APACrefYearMonthDay{2018}{}{}.
+\newblock
+{\BBOQ}\APACrefatitle {Skills requirements of business data analytics and data
+  science jobs: A comparative analysis} {Skills requirements of business data
+  analytics and data science jobs: A comparative analysis}.{\BBCQ}
+\newblock
+\APACjournalVolNumPages{Journal of Supply Chain and Operations
+  Management}{16}{1}{82-101}.
 \PrintBackRefs{\CurrentBib}
 
 \bibitem [\protect \citeauthoryear {%
