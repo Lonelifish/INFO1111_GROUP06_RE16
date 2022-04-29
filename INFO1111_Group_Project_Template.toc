@@ -22,8 +22,8 @@
 \contentsline {subsubsection}{Communicationa and presentation skills}{7}{}%
 \contentsline {subsubsection}{Data visualisation}{7}{}%
 \contentsline {subsubsection}{Problem solving}{8}{}%
-\contentsline {subsubsection}{Intellectual curiosity}{8}{}%
-\contentsline {subsubsection}{Ethics}{8}{}%
+\contentsline {subsubsection}{Processing data}{8}{}%
+\contentsline {subsubsection}{Critical thinking}{8}{}%
 \contentsline {subsection}{\numberline {1.4.}Skills: Yangyang Zhang : Software Development}{8}{}%
 \contentsline {subsubsection}{Professionalism}{8}{}%
 \contentsline {subsubsection}{Expertise in software development methodologies}{8}{}%
@@ -33,28 +33,28 @@
 \contentsline {subsubsection}{Data structure and Algorithms}{10}{}%
 \contentsline {subsubsection}{Self-learning}{10}{}%
 \contentsline {subsubsection}{Teamwork and collaboration}{10}{}%
-\contentsline {subsection}{\numberline {1.5.}Skills: Yiwei Bian : Cyber Security}{11}{}%
-\contentsline {subsubsection}{Open mindedness / Adaptability}{11}{}%
+\contentsline {subsection}{\numberline {1.5.}Skills: Yiwei Bian : Cyber Security}{10}{}%
+\contentsline {subsubsection}{Open mindedness / Adaptability}{10}{}%
 \contentsline {subsubsection}{Problem solving / critical thinking}{11}{}%
 \contentsline {subsubsection}{Teamwork \& communication}{11}{}%
 \contentsline {subsubsection}{Research}{11}{}%
 \contentsline {subsubsection}{Self-motivation}{11}{}%
-\contentsline {subsubsection}{Ethics}{12}{}%
+\contentsline {subsubsection}{Ethics}{11}{}%
 \contentsline {subsubsection}{Cybersecurity basics}{12}{}%
 \contentsline {subsubsection}{Diverse background knowledge in the IT field}{12}{}%
 \contentsline {section}{\numberline {2.}Level 2: Basic Technology}{13}{}%
 \contentsline {subsection}{\numberline {2.1.}Shopify, Ruby on Rails: Xu Wang}{13}{}%
-\contentsline {subsection}{\numberline {2.2.}Tech Stack: add student 2 name here}{13}{}%
-\contentsline {subsection}{\numberline {2.3.}Tech Stack: add student 3 name here}{13}{}%
-\contentsline {subsection}{\numberline {2.4.}Tech Stack: add student 4 name here}{13}{}%
-\contentsline {section}{\numberline {3.}Level 3: Advanced Skills}{14}{}%
-\contentsline {subsection}{\numberline {3.1.}Advanced features: Xu Wang}{14}{}%
-\contentsline {subsection}{\numberline {3.2.}Advanced features: add student 2 name here}{14}{}%
-\contentsline {subsection}{\numberline {3.3.}Advanced features: add student 3 name here}{14}{}%
-\contentsline {subsection}{\numberline {3.4.}Advanced features: add student 4 name here}{14}{}%
-\contentsline {section}{\numberline {4.}Level 4: Advanced Knowledge}{15}{}%
-\contentsline {subsection}{\numberline {4.1.}Advanced Knowledge: Xu Wang}{15}{}%
-\contentsline {subsection}{\numberline {4.2.}Advanced Knowledge: add student 2 name here}{15}{}%
-\contentsline {subsection}{\numberline {4.3.}Advanced Knowledge: add student 3 name here}{15}{}%
-\contentsline {subsection}{\numberline {4.4.}Advanced Knowledge: add student 4 name here}{15}{}%
-\contentsline {chapter}{References}{16}{}%
+\contentsline {subsection}{\numberline {2.2.}Facebook, LAMP: April Wang}{13}{}%
+\contentsline {subsection}{\numberline {2.3.}Tech Stack: add student 3 name here}{14}{}%
+\contentsline {subsection}{\numberline {2.4.}Tech Stack: add student 4 name here}{14}{}%
+\contentsline {section}{\numberline {3.}Level 3: Advanced Skills}{15}{}%
+\contentsline {subsection}{\numberline {3.1.}Advanced features: Xu Wang}{15}{}%
+\contentsline {subsection}{\numberline {3.2.}Advanced features: add student 2 name here}{15}{}%
+\contentsline {subsection}{\numberline {3.3.}Advanced features: add student 3 name here}{15}{}%
+\contentsline {subsection}{\numberline {3.4.}Advanced features: add student 4 name here}{15}{}%
+\contentsline {section}{\numberline {4.}Level 4: Advanced Knowledge}{16}{}%
+\contentsline {subsection}{\numberline {4.1.}Advanced Knowledge: Xu Wang}{16}{}%
+\contentsline {subsection}{\numberline {4.2.}Advanced Knowledge: add student 2 name here}{16}{}%
+\contentsline {subsection}{\numberline {4.3.}Advanced Knowledge: add student 3 name here}{16}{}%
+\contentsline {subsection}{\numberline {4.4.}Advanced Knowledge: add student 4 name here}{16}{}%
+\contentsline {chapter}{References}{17}{}%
